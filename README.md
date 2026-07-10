@@ -228,6 +228,14 @@ Restart nginx: sudo systemctl restart nginx
 
 ![](./Travel-Memory%20screenshot_images/image-046.png)
 
+**Application URL**
+
+  Cloudflare domain. 
+
+- https://www.soumik555.online
+
+- https://www.soumik555.online/addexperience
+
 ![](./Travel-Memory%20screenshot_images/image-047.png)
 
 ![](./Travel-Memory%20screenshot_images/image-048.png)
